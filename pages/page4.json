@@ -1,0 +1,20 @@
+{
+   "products": [
+      {
+         "name": "kefir",
+         "price": "4 BYN"
+      },
+      {
+         "name": "milk",
+         "price": "3 BYN"
+      },
+      {
+         "name": "bread",
+         "price": "1.5 BYN"
+      },
+      {
+         "name": "water",
+         "price": "2.5 BYN"
+      }
+   ]
+}
